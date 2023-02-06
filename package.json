@@ -1,7 +1,7 @@
 {
-  "name": "cdp-recruitment-javascript-master",
+  "name": "cdp-recruitment-javascript",
   "version": "1.0.0",
-  "description": "## Filter",
+  "description": "CDP recruitement CLI",
   "main": "app.js",
   "directories": {
     "lib": "lib"
