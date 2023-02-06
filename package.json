@@ -1,0 +1,18 @@
+{
+  "name": "cdp-recruitment-javascript-master",
+  "version": "1.0.0",
+  "description": "## Filter",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
